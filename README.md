@@ -195,3 +195,4 @@ make test
 - [Math Insight - applet](https://mathinsight.org/applet/kuramoto_order_parameters). The Kuramoto order parameters.
 - [Kuramoto, Y. (1984)](http://doi.org/10.1007/978-3-642-69689-3). Chemical Oscillations, Waves, and Turbulence.
 - [Steven Strogatz - talk](https://www.youtube.com/watch?v=5zFDMyQ8z8g). Coupled Oscillators That Synchronize Themselves
+    
